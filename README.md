@@ -30,4 +30,4 @@ Projeto simples criado para praticar uma nova linguagem de programação (Python
 - Entender fluxo básico de versionamento
 
 ## 📌 Observação
-Este é um projeto simples para fins didáticos, parte do processo de aprendizagem de uma nova linguagem de programação.
+Este é um projeto simples para fins didáticos, parte do processo de aprendizagem de uma nova linguagem de programação. :)
